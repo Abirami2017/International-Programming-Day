@@ -19,7 +19,7 @@ This Java program calculates and displays the date of **International Programmin
 
 - Accepts a year as input and returns the International Programming Day.
 - Simple and lightweight.
-- Clear output of the date in `DD-MM-YYYY` format.
+- Clear output of the date in `DD.MM.YYYY` format.
 
 ## Problem Statement
 
