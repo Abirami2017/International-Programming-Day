@@ -8,7 +8,7 @@ This Java program calculates and displays the date of **International Programmin
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Problem Statement](#probelem)
+- [Problem Statement](#problem-statement)
 - [License](#license)
 
 ## Introduction
