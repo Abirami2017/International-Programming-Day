@@ -8,7 +8,7 @@ This Java program calculates and displays the date of **International Programmin
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Problem Statment](#probelem)
 - [License](#license)
 
 ## Introduction
@@ -61,6 +61,9 @@ Ensure you have the following installed:
 ## Usage
 
 Once the program is compiled and run, you can enter a year, and the program will output the International Programming Day for that year.
+
+## Problem
+Given a year y in a range between 1700 and 2700, find the date of the 256th day of that year according to the official Russian calendar during that year. Then print it in the format dd.mm.yyyy, where dd is the two-digit day, mm is the two-digit month, and yyyy is.
 
 ## License
 
